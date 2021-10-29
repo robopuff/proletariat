@@ -3,6 +3,9 @@
 Easy to build, pro-micro (nice!nano for bluetooth) through the hole
 numpad/macropad with rotary encoders and 0.91" OLED support.
 
+![](docs/images/top.svg)
+![](docs/images/bottom.svg)
+
 ## Required components
 
 - 24 or 25x 1N4148 axial diodes
