@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name Mounting_Keyboard_Stabilizer)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Mounting_Keyboard_Stabilizer.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Alps_Matias)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Alps_Matias.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Cherry_MX)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Cherry_MX.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Hybrid)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Hybrid.pretty)(options "")(descr ""))
+  (lib (name Switch_Keyboard_Kailh)(type KiCad)(uri ${KIPRJMOD}/libs/keyswitch-kicad-library/modules/Switch_Keyboard_Kailh.pretty)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/libs/ProMicroKiCad/promicro.pretty)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/libs/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name nice-nano-kicad)(type KiCad)(uri ${KIPRJMOD}/libs/nice-nano-kicad)(options "")(descr ""))
+  (lib (name 0_Proletariat)(type KiCad)(uri ${KIPRJMOD}/libs/0_Proletariat.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/libs/kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+)
